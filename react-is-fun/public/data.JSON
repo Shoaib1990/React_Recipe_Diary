@@ -1,0 +1,57 @@
+{
+    "recipes" : [
+        {
+            "_id": 0,
+            "title": "Badam Ka Halwa", 
+            "chef":"Gulzar Hussain", 
+            "preptime":10, 
+            "cookTime":20, 
+            "url": "http://www.khanapakana.com/recipe/a27ab258-05c0-4ae1-af86-20a0131f8b89/badam-ka-halwa",
+            "img": "http://www.magtheweekly.com/assets/uploads/updates/2019-01-12/5457_4370631_updates.jpg",
+            "recipesToDo": [
+                             "Put almonds in blender with a little water and blend to make a paste.",
+                             "Melt clarified butter, add semolina and roasted until an aroma rises. Then add milk and add sugar and almond paste mix it well and stir fry.",
+                             "Now add khoya, almond essence and mix it well until the clarified butter leaves the sides of pan.",
+                             "Take it out in a serving platter and garnish with almonds and serve it."]
+                         
+     },
+        {
+            "_id": 1,
+            "title": "Gajar Ka Halwa", 
+            "chef":"unknown", 
+            "preptime":40, 
+            "cookTime":40 , 
+            "url": "http://www.khanapakana.com/recipe/55e5793b-46d2-4a5b-bc0c-10cd0f89a92d/gajar-ka-halwa",
+            "img": "https://www.cookwithkushi.com/wp-content/uploads/2018/09/IMG_8655_-1.jpg",
+            "recipesToDo": [
+                "Boil the grated carrots with condensed milk till it becomes dry.\n",
+                "Add ghee and stir continuously till ghee leavbes the sides of the pan.\n",
+                "Add sugar and stir till sugar is dissolved.",                            
+                "Mix the dry fruits and cardamom.",
+                "Serve hot with whipped cream and varak."
+            ]
+        },
+        {
+            "_id": 2,
+            "title": "Khajoor Ka Halwa", 
+            "chef":"Shireen Anwar", 
+            "preptime":10, 
+            "cookTime":25 , 
+            "url": "http://www.khanapakana.com/recipe/f5dd4691-e8c4-445f-a9e7-0e3ef95f4fdc/khajoor-ka-halwa-",
+            "img": "https://i.ytimg.com/vi/Iqh4KkHNSWs/maxresdefault.jpg",
+            "recipesToDo": [
+                         "گندم کا آٹا دو سو گرام (Wheat flour 200 gm)",
+                         " گھی حسبِ ضرورت (Clarified butter as required)",
+                         " عرق گلاب آدھا کپ (Rose water ½ cup)",
+                         " کھجوریں دو سو گرام (Dates 200 gm)",
+                         " چینی آدھا کپ (Sugar ½ cup)",
+                         " پسی الائچی ایک چائے کا چمچ (Cardamom powder 1 tsp)",
+                         " زعفران آدھا چائے کا چمچ (Saffron ½ tsp)",
+                         " دُودھ ایک کھانے کا چمچ (Milk 1 tbsp)"
+                
+            ]
+        }
+    ]
+    
+}
+

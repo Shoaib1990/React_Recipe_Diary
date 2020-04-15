@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    div .header-text {
+      font-size: 22px;
+      
+    }
+
+  }
+
+  .userGreet {
+    margin-left: 15px;
+  }

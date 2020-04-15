@@ -1,0 +1,22 @@
+
+.commentBox__heading {
+    height: 90%;
+    margin: auto;
+    padding: 0;
+}
+
+.commentBox__text {
+    margin: auto;
+    padding: auto;
+    width: 88%;
+}
+
+p.commentField {
+    margin-bottom: 1.5rem;
+}
+
+.commentBox__text .p-italic {
+    font-style: italic;
+    font-weight: 400;
+    color: #525252;
+}

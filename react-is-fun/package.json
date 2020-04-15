@@ -1,0 +1,63 @@
+{
+  "name": "react-is-fun",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@reach/router": "^1.3.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "firebase": "^5.4.2",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0",
+    "react-dom": "^16.12.0",
+    "react-firebase": "^2.2.8",
+    "react-icons": "^3.9.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoaib1990/React_Recipe_Diary.git"
+  },
+  "author": "Shoaib Khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shoaib1990/React_Recipe_Diary/issues"
+  },
+  "homepage": "https://github.com/Shoaib1990/React_Recipe_Diary#readme"
+}

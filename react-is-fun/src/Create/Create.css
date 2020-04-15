@@ -1,0 +1,8 @@
+.Chef {
+    width: 60%;
+    margin: auto 16px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
